@@ -1,0 +1,4 @@
+local Checker_2 = Instance.new("Part")
+Checker_2.Parent = game.Workspace
+Checker_2.Name = "Checker_2"
+Checker_2.Transparency = 1
