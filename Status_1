@@ -1,1 +1,12 @@
-print("Hello boy")
+local Status = true 
+
+local function Bolsonaro_e_norte_Bolsonaro_e_nordeste_vai_17()
+	print("BY DRECK MODZ")
+end
+
+local function Lula_Ladrao_Roubou_Meu_Coracao()
+	setclipboard("https://discord.gg/GtWk2B5WVF")
+	game.Players.LocalPlayer:Kick("Link nosso server Discord copiado com sucesso! \n Script não esta funcionando nesse momento.")
+end
+
+if Status then Bolsonaro_e_norte_Bolsonaro_e_nordeste_vai_17() else Lula_Ladrao_Roubou_Meu_Coracao() end
